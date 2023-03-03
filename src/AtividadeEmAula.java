@@ -33,5 +33,4 @@ public class AtividadeEmAula {
             System.out.println("Opção selecionada: " + tipoPagamento);
         }
 
-
 }
